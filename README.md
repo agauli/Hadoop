@@ -1,1 +1,1 @@
-#Udacity Hadoop
+#Hadoop
